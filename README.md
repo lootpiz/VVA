@@ -7,10 +7,10 @@
 ### Features
  * Gene- and variant-centered analysis for better interpretation
  * Displaying the overall distribution of variants in a gene at a glance  
-   i. variant deleteriousness score (i.e., Sorting Intolerant From Tolerant [SIFT])  
-   ii. variant frequency  
-   iii. the distances between the neighboring variants  
-   iv. highlight significant variant(s)  
+   * variant deleteriousness score (i.e., Sorting Intolerant From Tolerant [SIFT])  
+   * variant frequency  
+   * the distances between the neighboring variants  
+   * highlight significant variant(s)  
  * Gene characteristics (evolution): variability and conservation (i.e., Genomic Evolutionary Rate Profiling [GERP])
  * Inter-ethnic variability: the variant frequencies in public databases (i.e., The 1000 Genomes)
  * Confidence of variant: identification of likely false positive calls (i.e., SNP clusters)
