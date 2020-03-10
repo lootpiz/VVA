@@ -32,6 +32,9 @@
    -o, --output 	\<STRING\>: output directory name, default is "OUTPUT"  
    -n, --process 	\<NUMBER\>: number of processes to use, default is 4  
 
+### Database
+ * Provide variant/gene annotations on a plot. [DOWN](http://public.lootpiz.com/VVA/VVA.tar.gz) (640 MB)
+ 
 ### Examples
     $ python vva.py -a case.vcf.gz -b ctrl.vcf.gz
     $ python vva.py -a case.vcf.gz -b ctrl.vcf.gz -c TRUE
