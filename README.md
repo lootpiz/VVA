@@ -41,11 +41,11 @@
     
     
 ### FAQ
- * What is input for VVA?
+ * What is input file(s) for VVA?
    * Input to VVA is Variant Call Format (VCF) files for case and control groups that contains multiple samples in each VCF.
    * Make sure that VCF should be compressed by bgzip and indexed by tabix.
  * How to combine multiple one-sample VCFs into a single VCF?
-   * You can merge them via VCFTools and by typing the command below:
+   * You can merge them via VCFTools and by typing the command below:  
    ```$ vcf-merge A.vcf.gz B.vcf.gz C.vcf.gz | bgzip -c > out.vcf.gz```
  * How to identify likely false positive calls?  
    [![Likely_false_positive_call](./imgs/APOA5.png)](http://public.lootpiz.com/VVA/APOA5.html)  
