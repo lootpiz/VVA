@@ -22,7 +22,7 @@
    
 ### Usage
  * Synopsis  
- ```./vva.py -a \<FILE\> -b \<FILE\> \[OPTIONS\]```
+ ```./vva.py -a <FILE> -b <FILE> [OPTIONS]```
  * Required fields  
    -a, --casevcf 	\<FILE\>: input a case group in VCF that compressed by _bgzip_ and indexed by _tabix_  
    -b, --ctrlvcf 	\<FILE\>: input a control group in VCF that compressed by _bgzip_ and indexed by _tabix_  
