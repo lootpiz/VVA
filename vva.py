@@ -517,5 +517,4 @@ if __name__ == "__main__":
         main()
 
 ## VVA v1.0 (@'3(o.o);
-## by lootpiz
 ## EOF 2017.06.26 16:28
